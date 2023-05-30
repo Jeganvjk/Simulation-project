@@ -1,4 +1,4 @@
-# TITTLE:
+# TITLE:
  Smart Irrigation System using IOT Project
 
 ## ABSTRACT:

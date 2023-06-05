@@ -1,5 +1,5 @@
 # TITLE:
- Smart Irrigation System using IOT Project
+ Smart Irrigation System using arduino UNO
 
 ## ABSTRACT:
 The key objective of this project is to monitor the soil’s moisture content during its dry and wet conditions with the aid of a moisture sensor circuit, calculate the corresponding relative humidity and irrigate it based on its nature using Arduino, Soil moisture sensor, Ultrasonic sensor, GSM and an automatic water inlet setup which can also monitor and record temperature, which is constantly modified and can be controlled in future to optimize these resources so that the plant growth and yield is maximized.
